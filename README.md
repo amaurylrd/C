@@ -14,13 +14,13 @@ A venir etc..
 Taquin  etc..
 ```
 
-## [APL 1.1](http://www.iut-fbleau.fr/sitebp/apl11/)
+## Algorithmique, Programmation et Langages ([APL 1.1](http://www.iut-fbleau.fr/sitebp/apl11/))
 
 ```
 Tableaux multidimensionnels  etc..
 ```
 
-## [APL 1.2](http://www.iut-fbleau.fr/sitebp/apl12/)
+## Algorithmique, Programmation et Langages ([APL 1.2](http://www.iut-fbleau.fr/sitebp/apl12/))
 
 ```
 Listes chaînées  etc..
