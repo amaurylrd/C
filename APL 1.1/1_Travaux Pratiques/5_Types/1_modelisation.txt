@@ -1,0 +1,11 @@
+Modélisation. Pour chacun de ces cas, décidez quel type serait le plus approprié pour stocker une telle donnée en mémoire :
+
+vos notes du bac : float
+le nombre d'étudiants en première année de DUT Informatique : int
+une somme d'argent sur un porte-monnaie électronique : float
+le nombre d'étudiants en DUT Informatique : int
+le nombre d'octets dans un fichier : long int
+une somme d'argent dans les comptes d'Apple : long float
+le nombre d'étudiants de l'UPEC sur le site de Fontainebleau : int
+la masse d'un proton : float
+le nombre d'étudiants à l'UPEC : int
